@@ -26,16 +26,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 
----
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anderson-Pozo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=66D9EF&icon_color=EA2969&text_color=D3D3D3&bg_color=0,111821,111821" alt="Anderson Pozo" height="180em">
 
 ### 👀 &nbsp; Follow me
----
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AndersonPozo12)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/anderson-pozo-imbaquingo)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/anderson.pozo.16)&nbsp;
 [![DevTo](https://img.shields.io/badge/DEV-0A0A0A?logo=DEV.to)](https://dev.to/andersonpozo)&nbsp;
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)]()&nbsp;
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)&nbsp;
 
 
 
