@@ -31,7 +31,7 @@
 
 ### 👀 &nbsp; Follow me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AndersonPozo12)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AndersonPozo12?target=_blank)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/anderson-pozo-imbaquingo)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/anderson.pozo.16)&nbsp;
 [![DevTo](https://img.shields.io/badge/DEV-0A0A0A?logo=DEV.to)](https://dev.to/andersonpozo)&nbsp;
