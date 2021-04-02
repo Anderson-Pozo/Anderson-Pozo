@@ -35,7 +35,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/anderson-pozo-imbaquingo)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/anderson.pozo.16)&nbsp;
 [![DevTo](https://img.shields.io/badge/DEV-0A0A0A?logo=DEV.to)](https://dev.to/andersonpozo)&nbsp;
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)&nbsp;
 
 
 
