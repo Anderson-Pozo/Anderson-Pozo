@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about Python 
 - 📫 How to reach me: Twitter
-- 🧘‍♂️ Fun fact: I like to read and meditate
+- 🧘‍♂️ Hobbies: I like to read and meditate
 
 ### 🚀 &nbsp; Coding 
 ---
