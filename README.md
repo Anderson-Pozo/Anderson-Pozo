@@ -3,7 +3,7 @@
 
 
 
-<img align="center" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" height="250em">
+<img align="center" src="https://raw.githubusercontent.com/Anderson-Pozo/Anderson-Pozo/main/giphy.gif" height="250em">
 
 ### 👦 &nbsp;About Me
 ---
