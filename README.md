@@ -3,7 +3,7 @@
 
 
 
-<iframe src="https://giphy.com/embed/PiQejEf31116URju4V" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-PiQejEf31116URju4V">via GIPHY</a></p>
+<img align="center" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" height="250em">
 
 ### 👦 &nbsp;About Me
 ---
